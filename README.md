@@ -1,6 +1,6 @@
-iOSDevSupport
+DevSupport
 =============
 
-iOS 개발에 유용한 도구나 기술
+개발에 유용한 도구나 기술
 
 
